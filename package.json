@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@rolldown/plugin-babel": "^0.3.0",
+    "babel-plugin-react-compiler": "^1.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "vite-plugin-babel": "^1.7.3"
+  }
+}
